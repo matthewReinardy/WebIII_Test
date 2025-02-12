@@ -1,0 +1,1 @@
+Stacks are a LIFO (Last in first out) DS

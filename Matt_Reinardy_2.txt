@@ -1,0 +1,1 @@
+Queues are a FIFO (First in First out) DS
